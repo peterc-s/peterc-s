@@ -30,10 +30,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-IJIe0_bF9IM%2FV31dNNw7_dI%2FAAAAAAABosk%2FVP4AsfRr75wL0NTvBoXGrjcEopomgO41gCLcB%2Fs1600%2Ffunny-cat-gifs-214-04.gif&f=1&nofb=1&ipt=600af15f9eac7972076b709fb50f4b46b11a7fdc94385ac19308c281e65f15f8&ipo=images"  />
-</div>
-
 ###
 
 <div align="right">
