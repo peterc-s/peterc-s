@@ -1,8 +1,8 @@
-<h2 align="left">hi</h2>
+<h2 align="left">Hello!</h2>
 
 ###
 
-<p align="left">many of my repos are private (coursework or learning)!<br>i'm learning or using the following:</p>
+<p align="left">Many of my repos are private (coursework or learning)!<br>I'm learning or using the following:</p>
 
 ###
 
